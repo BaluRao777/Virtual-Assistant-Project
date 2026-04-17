@@ -105,6 +105,4 @@ This project is for educational and experimental purposes.
 
 ---
 
-## 👨‍💻 Author
 
-Developed as part of an AI/ML learning project.
